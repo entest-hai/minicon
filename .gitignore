@@ -1,0 +1,7 @@
+# built image (can be rebuilt from source; large)
+*.img
+
+# go build cache / module cache (if ever local)
+/go/
+/gopath/
+/gocache/
